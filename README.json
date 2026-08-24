@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 39464018,
                     "language": "Python",
-                    "last_commit": "2026-08-24T13:34:05Z",
+                    "last_commit": "2026-08-24T22:03:02Z",
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 74445
+                    "stars": 74449
                   }
                 },
                 {
@@ -185,7 +185,7 @@
                     "archived": false,
                     "id": 401275197,
                     "language": "HTML",
-                    "last_commit": "2026-08-24T12:28:07Z",
+                    "last_commit": "2026-08-24T18:00:12Z",
                     "owner": "elementary-data",
                     "repo": "elementary",
                     "stars": 2397
@@ -245,7 +245,7 @@
                     "archived": false,
                     "id": 92813268,
                     "language": "Scala",
-                    "last_commit": "2026-08-20T23:28:16Z",
+                    "last_commit": "2026-08-24T16:11:04Z",
                     "owner": "AbsaOSS",
                     "repo": "spline",
                     "stars": 667
@@ -289,7 +289,7 @@
                     "archived": false,
                     "id": 401275197,
                     "language": "HTML",
-                    "last_commit": "2026-08-24T12:28:07Z",
+                    "last_commit": "2026-08-24T18:00:12Z",
                     "owner": "elementary-data",
                     "repo": "elementary",
                     "stars": 2397
@@ -318,10 +318,10 @@
                     "archived": false,
                     "id": 204164353,
                     "language": "Java",
-                    "last_commit": "2026-08-24T13:43:33Z",
+                    "last_commit": "2026-08-24T18:35:42Z",
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 27905
+                    "stars": 27911
                   }
                 },
                 {
@@ -348,10 +348,10 @@
                     "archived": false,
                     "id": 488804911,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T13:55:24Z",
+                    "last_commit": "2026-08-24T20:43:08Z",
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 17657
+                    "stars": 17664
                   }
                 },
                 {
@@ -378,7 +378,7 @@
                     "archived": false,
                     "id": 147315142,
                     "language": "Python",
-                    "last_commit": "2026-08-24T13:17:24Z",
+                    "last_commit": "2026-08-24T20:24:27Z",
                     "owner": "transferwise",
                     "repo": "pipelinewise",
                     "stars": 659
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:20.096Z",
+    "last_updated": "2026-08-24T22:09:31.426Z",
     "original_repository": "thenaturalist/awesome-business-intelligence",
     "original_repository_id": 93753128,
     "original_repository_sha": "ff35bce37c85279098d69c89c12a98bccaffc416",
