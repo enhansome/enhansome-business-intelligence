@@ -1,7 +1,487 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "OSS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Superset",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39464018,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:34:05Z",
+                    "owner": "apache",
+                    "repo": "superset",
+                    "stars": 74445
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Redash",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13926404,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T16:14:11Z",
+                    "owner": "getredash",
+                    "repo": "redash",
+                    "stars": 28766
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "blazer",
+                  "description": "by Instacart",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24666294,
+                    "language": "Ruby",
+                    "last_commit": "2026-08-15T21:05:34Z",
+                    "owner": "ankane",
+                    "repo": "blazer",
+                    "stars": 4795
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Datart",
+                  "description": "(CN only language support)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 417448864,
+                    "language": "TypeScript",
+                    "last_commit": "2025-02-10T07:50:01Z",
+                    "owner": "running-elephant",
+                    "repo": "datart",
+                    "stars": 2302
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "poli",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 159273440,
+                    "language": "Java",
+                    "last_commit": "2023-01-06T21:00:47Z",
+                    "owner": "shzlw",
+                    "repo": "poli",
+                    "stars": 1973
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Insights",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91426988,
+                    "language": "JavaScript",
+                    "last_commit": "2025-12-09T10:25:58Z",
+                    "owner": "mariusandra",
+                    "repo": "insights",
+                    "stars": 1122
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tellery",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 377693470,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-23T16:56:57Z",
+                    "owner": "tellery",
+                    "repo": "tellery",
+                    "stars": 361
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "OSS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mara",
+                  "description": "by Project A",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 127569316,
+                    "language": "Python",
+                    "last_commit": "2023-12-15T16:14:47Z",
+                    "owner": "mara",
+                    "repo": "mara-pipelines",
+                    "stars": 2089
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "embulk",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24084730,
+                    "language": "Java",
+                    "last_commit": "2026-06-19T12:52:35Z",
+                    "owner": "embulk",
+                    "repo": "embulk",
+                    "stars": 1783
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "OSS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "elementary-lineage",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 401275197,
+                    "language": "HTML",
+                    "last_commit": "2026-08-24T12:28:07Z",
+                    "owner": "elementary-data",
+                    "repo": "elementary",
+                    "stars": 2397
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Marquez",
+                  "description": "by The We Company",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 139907613,
+                    "language": "Java",
+                    "last_commit": "2026-08-11T22:59:23Z",
+                    "owner": "MarquezProject",
+                    "repo": "marquez",
+                    "stars": 2266
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Metacat",
+                  "description": "by Netflix",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54284914,
+                    "language": "Java",
+                    "last_commit": "2026-08-21T12:38:31Z",
+                    "owner": "Netflix",
+                    "repo": "metacat",
+                    "stars": 1690
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Open Data Discovery",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 383922649,
+                    "language": "Java",
+                    "last_commit": "2026-07-08T09:16:25Z",
+                    "owner": "opendatadiscovery",
+                    "repo": "odd-platform",
+                    "stars": 1425
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "spline",
+                  "description": "by Absa",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 92813268,
+                    "language": "Scala",
+                    "last_commit": "2026-08-20T23:28:16Z",
+                    "owner": "AbsaOSS",
+                    "repo": "spline",
+                    "stars": 667
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Amundsen",
+                  "description": "by Lyft",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 169476792,
+                    "language": "TypeScript",
+                    "last_commit": "2026-02-10T10:47:24Z",
+                    "owner": "amundsen-io",
+                    "repo": "amundsenfrontendlibrary",
+                    "stars": 278
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "OSS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Elementary",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 401275197,
+                    "language": "HTML",
+                    "last_commit": "2026-08-24T12:28:07Z",
+                    "owner": "elementary-data",
+                    "repo": "elementary",
+                    "stars": 2397
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "OSS / Open Core",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Kestra",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 204164353,
+                    "language": "Java",
+                    "last_commit": "2026-08-24T13:43:33Z",
+                    "owner": "kestra-io",
+                    "repo": "kestra",
+                    "stars": 27905
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Luigi",
+                  "description": "by Spotify",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5888353,
+                    "language": "Python",
+                    "last_commit": "2026-07-18T11:15:46Z",
+                    "owner": "spotify",
+                    "repo": "luigi",
+                    "stars": 18765
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Windmill",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 488804911,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T13:55:24Z",
+                    "owner": "windmill-labs",
+                    "repo": "windmill",
+                    "stars": 17657
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pinball",
+                  "description": "by Pinterest",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 31635428,
+                    "language": "JavaScript",
+                    "last_commit": "2019-12-10T19:01:58Z",
+                    "owner": "pinterest",
+                    "repo": "pinball",
+                    "stars": 1046
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pipelinewise",
+                  "description": "by TransferWise",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147315142,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:17:24Z",
+                    "owner": "transferwise",
+                    "repo": "pipelinewise",
+                    "stars": 659
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "OSS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Orchest",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 265911693,
+                    "language": "TypeScript",
+                    "last_commit": "2023-06-06T09:48:26Z",
+                    "owner": "orchest",
+                    "repo": "orchest",
+                    "stars": 4131
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DataCater for real-time ETL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 541642682,
+                    "language": "JavaScript",
+                    "last_commit": "2023-08-11T08:04:55Z",
+                    "owner": "DataCater",
+                    "repo": "datacater",
+                    "stars": 83
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "OSS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Knowledge Repo",
+                  "description": "by Airbnb",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 65949398,
+                    "language": "Python",
+                    "last_commit": "2024-09-04T14:59:57Z",
+                    "owner": "airbnb",
+                    "repo": "knowledge-repo",
+                    "stars": 5539
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "openKB",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 40435365,
+                    "language": "JavaScript",
+                    "last_commit": "2024-12-07T01:39:43Z",
+                    "owner": "mrvautin",
+                    "repo": "openKB",
+                    "stars": 669
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:00:30.786Z",
+    "last_updated": "2026-08-24T14:05:20.096Z",
     "original_repository": "thenaturalist/awesome-business-intelligence",
     "original_repository_id": 93753128,
     "original_repository_sha": "ff35bce37c85279098d69c89c12a98bccaffc416",
