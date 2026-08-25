@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 39464018,
                     "language": "Python",
-                    "last_commit": "2026-08-25T05:54:37Z",
+                    "last_commit": "2026-08-25T21:51:58Z",
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 74451
+                    "stars": 74461
                   }
                 },
                 {
@@ -40,7 +40,7 @@
                     "last_commit": "2026-08-18T16:14:11Z",
                     "owner": "getredash",
                     "repo": "redash",
-                    "stars": 28764
+                    "stars": 28767
                   }
                 },
                 {
@@ -185,7 +185,7 @@
                     "archived": false,
                     "id": 401275197,
                     "language": "HTML",
-                    "last_commit": "2026-08-24T18:00:12Z",
+                    "last_commit": "2026-08-25T06:41:27Z",
                     "owner": "elementary-data",
                     "repo": "elementary",
                     "stars": 2397
@@ -203,7 +203,7 @@
                     "last_commit": "2026-08-11T22:59:23Z",
                     "owner": "MarquezProject",
                     "repo": "marquez",
-                    "stars": 2266
+                    "stars": 2268
                   }
                 },
                 {
@@ -215,7 +215,7 @@
                     "archived": false,
                     "id": 54284914,
                     "language": "Java",
-                    "last_commit": "2026-08-24T23:12:31Z",
+                    "last_commit": "2026-08-25T19:25:27Z",
                     "owner": "Netflix",
                     "repo": "metacat",
                     "stars": 1690
@@ -289,7 +289,7 @@
                     "archived": false,
                     "id": 401275197,
                     "language": "HTML",
-                    "last_commit": "2026-08-24T18:00:12Z",
+                    "last_commit": "2026-08-25T06:41:27Z",
                     "owner": "elementary-data",
                     "repo": "elementary",
                     "stars": 2397
@@ -318,10 +318,10 @@
                     "archived": false,
                     "id": 204164353,
                     "language": "Java",
-                    "last_commit": "2026-08-24T18:35:42Z",
+                    "last_commit": "2026-08-25T17:13:16Z",
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 27915
+                    "stars": 27919
                   }
                 },
                 {
@@ -348,10 +348,10 @@
                     "archived": false,
                     "id": 488804911,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T00:40:15Z",
+                    "last_commit": "2026-08-25T21:24:57Z",
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 17670
+                    "stars": 17677
                   }
                 },
                 {
@@ -378,7 +378,7 @@
                     "archived": false,
                     "id": 147315142,
                     "language": "Python",
-                    "last_commit": "2026-08-24T20:24:27Z",
+                    "last_commit": "2026-08-25T17:02:15Z",
                     "owner": "transferwise",
                     "repo": "pipelinewise",
                     "stars": 659
@@ -410,7 +410,7 @@
                     "last_commit": "2023-06-06T09:48:26Z",
                     "owner": "orchest",
                     "repo": "orchest",
-                    "stars": 4131
+                    "stars": 4132
                   }
                 },
                 {
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:37.165Z",
+    "last_updated": "2026-08-25T22:03:43.982Z",
     "original_repository": "thenaturalist/awesome-business-intelligence",
     "original_repository_id": 93753128,
     "original_repository_sha": "ff35bce37c85279098d69c89c12a98bccaffc416",
