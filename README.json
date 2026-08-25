@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 39464018,
                     "language": "Python",
-                    "last_commit": "2026-08-24T22:03:02Z",
+                    "last_commit": "2026-08-25T05:54:37Z",
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 74449
+                    "stars": 74451
                   }
                 },
                 {
@@ -40,7 +40,7 @@
                     "last_commit": "2026-08-18T16:14:11Z",
                     "owner": "getredash",
                     "repo": "redash",
-                    "stars": 28766
+                    "stars": 28764
                   }
                 },
                 {
@@ -215,7 +215,7 @@
                     "archived": false,
                     "id": 54284914,
                     "language": "Java",
-                    "last_commit": "2026-08-21T12:38:31Z",
+                    "last_commit": "2026-08-24T23:12:31Z",
                     "owner": "Netflix",
                     "repo": "metacat",
                     "stars": 1690
@@ -321,7 +321,7 @@
                     "last_commit": "2026-08-24T18:35:42Z",
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 27911
+                    "stars": 27915
                   }
                 },
                 {
@@ -348,10 +348,10 @@
                     "archived": false,
                     "id": 488804911,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T20:43:08Z",
+                    "last_commit": "2026-08-25T00:40:15Z",
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 17664
+                    "stars": 17670
                   }
                 },
                 {
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:09:31.426Z",
+    "last_updated": "2026-08-25T05:56:37.165Z",
     "original_repository": "thenaturalist/awesome-business-intelligence",
     "original_repository_id": 93753128,
     "original_repository_sha": "ff35bce37c85279098d69c89c12a98bccaffc416",
