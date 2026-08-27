@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 39464018,
                     "language": "Python",
-                    "last_commit": "2026-08-27T01:01:53Z",
+                    "last_commit": "2026-08-27T11:22:12Z",
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 74471
+                    "stars": 74483
                   }
                 },
                 {
@@ -40,7 +40,7 @@
                     "last_commit": "2026-08-18T16:14:11Z",
                     "owner": "getredash",
                     "repo": "redash",
-                    "stars": 28767
+                    "stars": 28766
                   }
                 },
                 {
@@ -188,7 +188,7 @@
                     "last_commit": "2026-08-26T09:56:16Z",
                     "owner": "elementary-data",
                     "repo": "elementary",
-                    "stars": 2398
+                    "stars": 2399
                   }
                 },
                 {
@@ -292,7 +292,7 @@
                     "last_commit": "2026-08-26T09:56:16Z",
                     "owner": "elementary-data",
                     "repo": "elementary",
-                    "stars": 2398
+                    "stars": 2399
                   }
                 }
               ]
@@ -318,7 +318,7 @@
                     "archived": false,
                     "id": 204164353,
                     "language": "Java",
-                    "last_commit": "2026-08-26T21:41:49Z",
+                    "last_commit": "2026-08-27T11:30:15Z",
                     "owner": "kestra-io",
                     "repo": "kestra",
                     "stars": 27933
@@ -348,10 +348,10 @@
                     "archived": false,
                     "id": 488804911,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T02:13:40Z",
+                    "last_commit": "2026-08-27T11:20:55Z",
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 17687
+                    "stars": 17694
                   }
                 },
                 {
@@ -378,7 +378,7 @@
                     "archived": false,
                     "id": 147315142,
                     "language": "Python",
-                    "last_commit": "2026-08-26T17:22:22Z",
+                    "last_commit": "2026-08-27T10:48:00Z",
                     "owner": "transferwise",
                     "repo": "pipelinewise",
                     "stars": 659
@@ -481,9 +481,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:14:16.422Z",
-    "original_repository": "thenaturalist/awesome-business-intelligence",
-    "original_repository_id": 93753128,
+    "last_updated": "2026-08-27T11:31:19.049Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 93753128,
+      "language": null,
+      "last_commit": "2024-08-21T11:08:26Z",
+      "owner": "thenaturalist",
+      "repo": "awesome-business-intelligence",
+      "stars": 2315
+    },
     "original_repository_sha": "ff35bce37c85279098d69c89c12a98bccaffc416",
     "enhanced_repository": "enhansome/enhansome-business-intelligence",
     "enhanced_repository_description": null,
