@@ -22,11 +22,12 @@
                     "archived": false,
                     "id": 39464018,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:22:12Z",
+                    "last_commit": "2026-08-28T05:44:49Z",
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 74483
-                  }
+                    "stars": 74502
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -41,7 +42,8 @@
                     "owner": "getredash",
                     "repo": "redash",
                     "stars": 28766
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -56,7 +58,8 @@
                     "owner": "ankane",
                     "repo": "blazer",
                     "stars": 4795
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -71,7 +74,8 @@
                     "owner": "running-elephant",
                     "repo": "datart",
                     "stars": 2302
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -86,7 +90,8 @@
                     "owner": "shzlw",
                     "repo": "poli",
                     "stars": 1973
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -101,7 +106,8 @@
                     "owner": "mariusandra",
                     "repo": "insights",
                     "stars": 1122
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -116,7 +122,8 @@
                     "owner": "tellery",
                     "repo": "tellery",
                     "stars": 361
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 }
               ]
             }
@@ -145,7 +152,8 @@
                     "owner": "mara",
                     "repo": "mara-pipelines",
                     "stars": 2089
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -160,7 +168,8 @@
                     "owner": "embulk",
                     "repo": "embulk",
                     "stars": 1783
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 }
               ]
             }
@@ -185,11 +194,12 @@
                     "archived": false,
                     "id": 401275197,
                     "language": "HTML",
-                    "last_commit": "2026-08-26T09:56:16Z",
+                    "last_commit": "2026-08-27T13:09:27Z",
                     "owner": "elementary-data",
                     "repo": "elementary",
-                    "stars": 2399
-                  }
+                    "stars": 2400
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -204,7 +214,8 @@
                     "owner": "MarquezProject",
                     "repo": "marquez",
                     "stars": 2268
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -219,7 +230,8 @@
                     "owner": "Netflix",
                     "repo": "metacat",
                     "stars": 1690
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -233,8 +245,9 @@
                     "last_commit": "2026-07-08T09:16:25Z",
                     "owner": "opendatadiscovery",
                     "repo": "odd-platform",
-                    "stars": 1425
-                  }
+                    "stars": 1426
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -249,7 +262,8 @@
                     "owner": "AbsaOSS",
                     "repo": "spline",
                     "stars": 667
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -264,7 +278,8 @@
                     "owner": "amundsen-io",
                     "repo": "amundsenfrontendlibrary",
                     "stars": 278
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 }
               ]
             }
@@ -289,11 +304,12 @@
                     "archived": false,
                     "id": 401275197,
                     "language": "HTML",
-                    "last_commit": "2026-08-26T09:56:16Z",
+                    "last_commit": "2026-08-27T13:09:27Z",
                     "owner": "elementary-data",
                     "repo": "elementary",
-                    "stars": 2399
-                  }
+                    "stars": 2400
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 }
               ]
             }
@@ -318,11 +334,12 @@
                     "archived": false,
                     "id": 204164353,
                     "language": "Java",
-                    "last_commit": "2026-08-27T11:30:15Z",
+                    "last_commit": "2026-08-28T05:12:50Z",
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 27933
-                  }
+                    "stars": 27941
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -336,8 +353,9 @@
                     "last_commit": "2026-07-18T11:15:46Z",
                     "owner": "spotify",
                     "repo": "luigi",
-                    "stars": 18765
-                  }
+                    "stars": 18768
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -348,11 +366,12 @@
                     "archived": false,
                     "id": 488804911,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T11:20:55Z",
+                    "last_commit": "2026-08-28T05:38:42Z",
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 17694
-                  }
+                    "stars": 17705
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -367,7 +386,8 @@
                     "owner": "pinterest",
                     "repo": "pinball",
                     "stars": 1046
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -378,11 +398,12 @@
                     "archived": false,
                     "id": 147315142,
                     "language": "Python",
-                    "last_commit": "2026-08-27T10:48:00Z",
+                    "last_commit": "2026-08-27T15:34:23Z",
                     "owner": "transferwise",
                     "repo": "pipelinewise",
                     "stars": 659
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 }
               ]
             }
@@ -411,7 +432,8 @@
                     "owner": "orchest",
                     "repo": "orchest",
                     "stars": 4132
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -426,7 +448,8 @@
                     "owner": "DataCater",
                     "repo": "datacater",
                     "stars": 83
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 }
               ]
             }
@@ -455,7 +478,8 @@
                     "owner": "airbnb",
                     "repo": "knowledge-repo",
                     "stars": 5539
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 },
                 {
                   "node_type": "item",
@@ -470,7 +494,8 @@
                     "owner": "mrvautin",
                     "repo": "openKB",
                     "stars": 669
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:50:11.965Z"
                 }
               ]
             }
@@ -481,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:19.049Z",
+    "last_updated": "2026-08-28T05:50:11.965Z",
     "original_repository_info": {
       "archived": false,
       "id": 93753128,
