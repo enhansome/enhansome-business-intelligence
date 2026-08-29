@@ -20,12 +20,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+                    "homepage": "https://superset.apache.org/",
                     "id": 39464018,
                     "language": "Python",
-                    "last_commit": "2026-08-29T03:22:23Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T04:07:17Z",
+                    "open_issues": 612,
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 74519
+                    "stars": 74520,
+                    "topics": [
+                      "analytics",
+                      "apache",
+                      "apache-superset",
+                      "asf",
+                      "bi",
+                      "business-analytics",
+                      "business-intelligence",
+                      "data-analysis",
+                      "data-analytics",
+                      "data-engineering",
+                      "data-science",
+                      "data-visualization",
+                      "data-viz",
+                      "flask",
+                      "python",
+                      "react",
+                      "sql-editor",
+                      "superset"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -36,12 +60,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+                    "homepage": "http://redash.io/",
                     "id": 13926404,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-18T16:14:11Z",
+                    "open_issues": 802,
                     "owner": "getredash",
                     "repo": "redash",
-                    "stars": 28766
+                    "stars": 28766,
+                    "topics": [
+                      "analytics",
+                      "athena",
+                      "bi",
+                      "bigquery",
+                      "business-intelligence",
+                      "dashboard",
+                      "databricks",
+                      "hacktoberfest",
+                      "javascript",
+                      "mariadb",
+                      "mysql",
+                      "postgresql",
+                      "python",
+                      "redash",
+                      "redshift",
+                      "snowflake",
+                      "spark",
+                      "spark-sql",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -52,12 +101,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Business intelligence made simple",
+                    "homepage": null,
                     "id": 24666294,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T23:16:22Z",
+                    "open_issues": 31,
                     "owner": "ankane",
                     "repo": "blazer",
-                    "stars": 4795
+                    "stars": 4795,
+                    "topics": [
+                      "business-intelligence",
+                      "charts",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -68,12 +126,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Datart is a next generation Data Visualization Open Platform",
+                    "homepage": "https://running-elephant.github.io/datart-docs/",
                     "id": 417448864,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-10T07:50:01Z",
+                    "open_issues": 415,
                     "owner": "running-elephant",
                     "repo": "datart",
-                    "stars": 2302
+                    "stars": 2302,
+                    "topics": [
+                      "analytics",
+                      "bi",
+                      "business-analytics",
+                      "business-intelligence",
+                      "chart",
+                      "d3",
+                      "dashboard",
+                      "data-analysis",
+                      "data-analytics",
+                      "data-engineering",
+                      "data-visualization",
+                      "data-viz",
+                      "datart",
+                      "davinci",
+                      "display",
+                      "echarts",
+                      "react",
+                      "report",
+                      "sql-editor",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -84,12 +168,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.",
+                    "homepage": "https://shzlw.github.io/poli",
                     "id": 159273440,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2023-01-06T21:00:47Z",
+                    "open_issues": 43,
                     "owner": "shzlw",
                     "repo": "poli",
-                    "stars": 1973
+                    "stars": 1973,
+                    "topics": [
+                      "bigdata",
+                      "business-intelligence",
+                      "dashboard",
+                      "data-visualization",
+                      "jdbc",
+                      "reactjs",
+                      "reporting",
+                      "spring-boot",
+                      "sql",
+                      "sql-editor"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -100,12 +200,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open Source Self-Hosted Business Intelligence Platform",
+                    "homepage": "https://demo.insights.sh/",
                     "id": 91426988,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-12-09T10:25:58Z",
+                    "open_issues": 78,
                     "owner": "mariusandra",
                     "repo": "insights",
-                    "stars": 1122
+                    "stars": 1122,
+                    "topics": [
+                      "business-intelligence",
+                      "dashboard",
+                      "data-analytics",
+                      "feathersjs",
+                      "insights",
+                      "kea",
+                      "react",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -116,12 +230,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.",
+                    "homepage": null,
                     "id": 377693470,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-29T01:12:04Z",
+                    "open_issues": 23,
                     "owner": "tellery",
                     "repo": "tellery",
-                    "stars": 361
+                    "stars": 361,
+                    "topics": [
+                      "analytics",
+                      "bigquery",
+                      "business-intelligence",
+                      "collaboration",
+                      "dashboard",
+                      "data-analytics",
+                      "data-modeling",
+                      "data-science",
+                      "data-visualization",
+                      "database",
+                      "dbt",
+                      "notebook",
+                      "self-hosted",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 }
@@ -146,12 +280,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow",
+                    "homepage": null,
                     "id": 127569316,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-12-15T16:14:47Z",
+                    "open_issues": 26,
                     "owner": "mara",
                     "repo": "mara-pipelines",
-                    "stars": 2089
+                    "stars": 2089,
+                    "topics": [
+                      "data",
+                      "data-integration",
+                      "etl",
+                      "pipeline",
+                      "postgresql",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -162,12 +308,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Embulk: Pluggable Bulk Data Loader.",
+                    "homepage": "https://www.embulk.org/",
                     "id": 24084730,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-19T12:52:35Z",
+                    "open_issues": 162,
                     "owner": "embulk",
                     "repo": "embulk",
-                    "stars": 1783
+                    "stars": 1783,
+                    "topics": [
+                      "bulk-loader",
+                      "embulk"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 }
@@ -192,12 +346,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.",
+                    "homepage": "https://www.elementary-data.com/",
                     "id": 401275197,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T13:09:27Z",
+                    "open_issues": 24,
                     "owner": "elementary-data",
                     "repo": "elementary",
-                    "stars": 2400
+                    "stars": 2400,
+                    "topics": [
+                      "analytics-engineer",
+                      "bigquery",
+                      "data-analysis",
+                      "data-governance",
+                      "data-lineage",
+                      "data-observability",
+                      "data-pipeline",
+                      "data-pipelines",
+                      "data-reliability",
+                      "data-warehouse",
+                      "dataops",
+                      "dbt",
+                      "dbt-artifacts",
+                      "dbt-packages",
+                      "lineage",
+                      "redshift",
+                      "snowflake"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -208,12 +385,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collect, aggregate, and visualize a data ecosystem's metadata",
+                    "homepage": "https://marquezproject.ai",
                     "id": 139907613,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T19:51:39Z",
+                    "open_issues": 250,
                     "owner": "MarquezProject",
                     "repo": "marquez",
-                    "stars": 2268
+                    "stars": 2268,
+                    "topics": [
+                      "data-dictionary",
+                      "data-discovery",
+                      "data-ecosystem-metadata",
+                      "data-governance",
+                      "data-lineage",
+                      "data-ops",
+                      "data-provenance",
+                      "marquez",
+                      "metadata",
+                      "metadata-service"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -224,12 +417,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 54284914,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T14:23:25Z",
+                    "open_issues": 57,
                     "owner": "Netflix",
                     "repo": "metacat",
-                    "stars": 1689
+                    "stars": 1689,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -240,12 +438,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.",
+                    "homepage": "https://opendatadiscovery.org",
                     "id": 383922649,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-08T09:16:25Z",
+                    "open_issues": 125,
                     "owner": "opendatadiscovery",
                     "repo": "odd-platform",
-                    "stars": 1426
+                    "stars": 1426,
+                    "topics": [
+                      "alerting",
+                      "bigdata",
+                      "data-catalog",
+                      "data-discovery",
+                      "data-engineering",
+                      "data-exploration",
+                      "data-governance",
+                      "data-lineage",
+                      "data-observability",
+                      "data-pipelines",
+                      "data-platform",
+                      "data-profiling",
+                      "data-quality",
+                      "data-science",
+                      "datacatalog",
+                      "lineage",
+                      "metadata",
+                      "metadata-management",
+                      "observability",
+                      "oss"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -256,12 +480,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Data Lineage Tracking And Visualization Solution",
+                    "homepage": "https://absaoss.github.io/spline/",
                     "id": 92813268,
                     "language": "Scala",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T16:11:04Z",
+                    "open_issues": 47,
                     "owner": "AbsaOSS",
                     "repo": "spline",
-                    "stars": 667
+                    "stars": 667,
+                    "topics": [
+                      "bigdata",
+                      "hadoop",
+                      "lineage",
+                      "scala",
+                      "spark",
+                      "tracking",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -272,12 +509,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Front-end service library for Amundsen",
+                    "homepage": "https://github.com/amundsen-io/amundsen",
                     "id": 169476792,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-10T10:47:24Z",
+                    "open_issues": 7,
                     "owner": "amundsen-io",
                     "repo": "amundsenfrontendlibrary",
-                    "stars": 278
+                    "stars": 278,
+                    "topics": [
+                      "amundsen"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 }
@@ -302,12 +546,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.",
+                    "homepage": "https://www.elementary-data.com/",
                     "id": 401275197,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T13:09:27Z",
+                    "open_issues": 24,
                     "owner": "elementary-data",
                     "repo": "elementary",
-                    "stars": 2400
+                    "stars": 2400,
+                    "topics": [
+                      "analytics-engineer",
+                      "bigquery",
+                      "data-analysis",
+                      "data-governance",
+                      "data-lineage",
+                      "data-observability",
+                      "data-pipeline",
+                      "data-pipelines",
+                      "data-reliability",
+                      "data-warehouse",
+                      "dataops",
+                      "dbt",
+                      "dbt-artifacts",
+                      "dbt-packages",
+                      "lineage",
+                      "redshift",
+                      "snowflake"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 }
@@ -332,12 +599,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+                    "homepage": "https://go.kestra.io/home",
                     "id": 204164353,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T16:05:52Z",
+                    "open_issues": 676,
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 27945
+                    "stars": 27946,
+                    "topics": [
+                      "ai-agents",
+                      "automation",
+                      "control-plane",
+                      "data-engineering",
+                      "data-orchestration",
+                      "data-orchestrator",
+                      "devops",
+                      "etl",
+                      "hacktoberfest",
+                      "high-availability",
+                      "infra-automation",
+                      "infra-ops",
+                      "infrastructure-as-code",
+                      "java",
+                      "low-code",
+                      "orchestration",
+                      "pipeline",
+                      "pipeline-as-code",
+                      "scheduler",
+                      "workflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -348,12 +641,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",
+                    "homepage": null,
                     "id": 5888353,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-18T11:15:46Z",
+                    "open_issues": 170,
                     "owner": "spotify",
                     "repo": "luigi",
-                    "stars": 18768
+                    "stars": 18768,
+                    "topics": [
+                      "hadoop",
+                      "luigi",
+                      "orchestration-framework",
+                      "python",
+                      "scheduling"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -364,12 +668,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+                    "homepage": "https://windmill.dev",
                     "id": 488804911,
                     "language": "Rust",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-29T01:01:26Z",
+                    "open_issues": 832,
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 17712
+                    "stars": 17713,
+                    "topics": [
+                      "low-code",
+                      "open-source",
+                      "platform",
+                      "postgresql",
+                      "python",
+                      "self-hostable",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -380,12 +697,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Pinball is a scalable workflow manager",
+                    "homepage": null,
                     "id": 31635428,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-12-10T19:01:58Z",
+                    "open_issues": 13,
                     "owner": "pinterest",
                     "repo": "pinball",
-                    "stars": 1046
+                    "stars": 1046,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -396,12 +718,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Data Pipeline Framework using the singer.io spec",
+                    "homepage": "https://transferwise.github.io/pipelinewise",
                     "id": 147315142,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T15:08:13Z",
+                    "open_issues": 77,
                     "owner": "transferwise",
                     "repo": "pipelinewise",
-                    "stars": 659
+                    "stars": 659,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 }
@@ -426,12 +753,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Build data pipelines, the easy way 🛠️",
+                    "homepage": "https://orchest.readthedocs.io/en/stable/",
                     "id": 265911693,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-06-06T09:48:26Z",
+                    "open_issues": 130,
                     "owner": "orchest",
                     "repo": "orchest",
-                    "stars": 4132
+                    "stars": 4132,
+                    "topics": [
+                      "airflow",
+                      "cloud",
+                      "dag",
+                      "data-pipelines",
+                      "data-science",
+                      "deployment",
+                      "docker",
+                      "etl",
+                      "etl-pipeline",
+                      "ide",
+                      "jupyter",
+                      "jupyterlab",
+                      "kubernetes",
+                      "machine-learning",
+                      "notebooks",
+                      "orchest",
+                      "pipelines",
+                      "python",
+                      "self-hosted"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -442,12 +794,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "The developer-friendly ETL platform for transforming data in real-time. Based on Apache Kafka® and Kubernetes®.",
+                    "homepage": "https://datacater.io",
                     "id": 541642682,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-08-11T08:04:55Z",
+                    "open_issues": 0,
                     "owner": "DataCater",
                     "repo": "datacater",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": [
+                      "apache-kafka",
+                      "cloud-native",
+                      "data-pipelines",
+                      "etl",
+                      "kafka",
+                      "kubernetes",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 }
@@ -472,12 +837,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions.",
+                    "homepage": null,
                     "id": 65949398,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-09-04T14:59:57Z",
+                    "open_issues": 137,
                     "owner": "airbnb",
                     "repo": "knowledge-repo",
-                    "stars": 5539
+                    "stars": 5539,
+                    "topics": [
+                      "data",
+                      "data-analysis",
+                      "data-science",
+                      "knowledge"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -488,12 +863,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Open Source Nodejs Markdown based knowledge base (FAQ) app",
+                    "homepage": "https://openkb.markmoffat.com",
                     "id": 40435365,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-12-07T01:39:43Z",
+                    "open_issues": 64,
                     "owner": "mrvautin",
                     "repo": "openKB",
-                    "stars": 669
+                    "stars": 669,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 }
@@ -506,15 +886,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:21.510Z",
+    "last_updated": "2026-08-29T04:23:30.726Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Actively curated list of awesome BI tools. PRs welcome!",
+      "homepage": null,
       "id": 93753128,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-08-21T11:08:26Z",
+      "open_issues": 27,
       "owner": "thenaturalist",
       "repo": "awesome-business-intelligence",
-      "stars": 2315
+      "stars": 2315,
+      "topics": [
+        "awesome-list",
+        "business-intelligence",
+        "data-analysis",
+        "data-science",
+        "data-visualization",
+        "database",
+        "etl",
+        "sql"
+      ]
     },
     "original_repository_sha": "ff35bce37c85279098d69c89c12a98bccaffc416",
     "enhanced_repository": "enhansome/enhansome-business-intelligence",
