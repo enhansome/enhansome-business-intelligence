@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 39464018,
                     "language": "Python",
-                    "last_commit": "2026-08-28T05:44:49Z",
+                    "last_commit": "2026-08-29T03:22:23Z",
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 74502
+                    "stars": 74519
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -118,7 +118,7 @@
                     "archived": false,
                     "id": 377693470,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T16:56:57Z",
+                    "last_commit": "2026-08-29T01:12:04Z",
                     "owner": "tellery",
                     "repo": "tellery",
                     "stars": 361
@@ -226,10 +226,10 @@
                     "archived": false,
                     "id": 54284914,
                     "language": "Java",
-                    "last_commit": "2026-08-26T18:27:03Z",
+                    "last_commit": "2026-08-28T14:23:25Z",
                     "owner": "Netflix",
                     "repo": "metacat",
-                    "stars": 1690
+                    "stars": 1689
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -334,10 +334,10 @@
                     "archived": false,
                     "id": 204164353,
                     "language": "Java",
-                    "last_commit": "2026-08-28T05:12:50Z",
+                    "last_commit": "2026-08-28T16:05:52Z",
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 27941
+                    "stars": 27945
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -366,10 +366,10 @@
                     "archived": false,
                     "id": 488804911,
                     "language": "Rust",
-                    "last_commit": "2026-08-28T05:38:42Z",
+                    "last_commit": "2026-08-29T01:01:26Z",
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 17705
+                    "stars": 17712
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
                 },
@@ -398,7 +398,7 @@
                     "archived": false,
                     "id": 147315142,
                     "language": "Python",
-                    "last_commit": "2026-08-27T15:34:23Z",
+                    "last_commit": "2026-08-28T15:08:13Z",
                     "owner": "transferwise",
                     "repo": "pipelinewise",
                     "stars": 659
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:50:11.965Z",
+    "last_updated": "2026-08-29T03:23:21.510Z",
     "original_repository_info": {
       "archived": false,
       "id": 93753128,
