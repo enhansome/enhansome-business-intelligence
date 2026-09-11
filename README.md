@@ -103,13 +103,13 @@ ToC split by SaaS and OSS (Open Source Software):
       * [Viur](https://www.viurdata.com/)
 
   * **OSS**
-    * [Superset](https://github.com/airbnb/superset) ⭐ 74,704 | 🐛 587 | 🌐 Python | 📅 2026-09-10
-    * [Redash](https://github.com/getredash/redash) ⭐ 28,788 | 🐛 805 | 🌐 Python | 📅 2026-09-03
+    * [Superset](https://github.com/airbnb/superset) ⭐ 74,721 | 🐛 601 | 🌐 Python | 📅 2026-09-11
+    * [Redash](https://github.com/getredash/redash) ⭐ 28,792 | 🐛 805 | 🌐 Python | 📅 2026-09-03
     * [blazer](https://github.com/ankane/blazer) ⭐ 4,798 | 🐛 32 | 🌐 Ruby | 📅 2026-08-25 by Instacart
     * [Datart](https://github.com/running-elephant/datart) ⭐ 2,305 | 🐛 415 | 🌐 TypeScript | 📅 2025-02-10 (CN only language support)
     * [poli](https://github.com/shzlw/poli) ⭐ 1,973 | 🐛 43 | 🌐 Java | 📅 2023-01-06
     * [Insights](https://github.com/mariusandra/insights) ⭐ 1,124 | 🐛 78 | 🌐 JavaScript | 📅 2025-12-09
-    * [Tellery](https://github.com/tellery/tellery) ⭐ 360 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-10
+    * [Tellery](https://github.com/tellery/tellery) ⭐ 360 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-11
     * [Chartbrew](https://chartbrew.com/)
     * [evidence](https://evidence.dev)
     * [just-dashboard](https://kantord.github.io/just-dashboard/)
@@ -170,12 +170,12 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Stemma](https://www.stemma.ai) by Amundsen creators
 
   * **OSS**
-    * [elementary-lineage](https://github.com/elementary-data/elementary-lineage) ⭐ 2,406 | 🐛 12 | 🌐 HTML | 📅 2026-09-10
+    * [elementary-lineage](https://github.com/elementary-data/elementary-lineage) ⭐ 2,406 | 🐛 13 | 🌐 HTML | 📅 2026-09-10
     * [Marquez](https://github.com/MarquezProject/marquez) ⭐ 2,274 | 🐛 250 | 🌐 Java | 📅 2026-09-07 by The We Company
     * [Metacat](https://github.com/Netflix/metacat) ⭐ 1,691 | 🐛 56 | 🌐 Java | 📅 2026-09-10 by Netflix
-    * [Open Data Discovery](https://github.com/opendatadiscovery/odd-platform) ⭐ 1,427 | 🐛 128 | 🌐 Java | 📅 2026-09-10
+    * [Open Data Discovery](https://github.com/opendatadiscovery/odd-platform) ⭐ 1,427 | 🐛 130 | 🌐 Java | 📅 2026-09-11
     * [spline](https://github.com/AbsaOSS/spline) ⭐ 667 | 🐛 48 | 🌐 Scala | 📅 2026-09-10 by Absa
-    * [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) ⭐ 278 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-10 by Lyft
+    * [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) ⚠️ Archived by Lyft
     * [Datahub Project](https://datahubproject.io)
 
 * ### 7. Data Observability
@@ -190,7 +190,7 @@ ToC split by SaaS and OSS (Open Source Software):
     * [soda](https://www.soda.io)
 
   * **OSS**
-    * [Elementary](https://github.com/elementary-data/elementary) ⭐ 2,406 | 🐛 12 | 🌐 HTML | 📅 2026-09-10
+    * [Elementary](https://github.com/elementary-data/elementary) ⭐ 2,406 | 🐛 13 | 🌐 HTML | 📅 2026-09-10
     * [DataKitchen](https://datakitchen.io/)
     * [DQO](https://dqo.ai)
     * [Monosi](https://www.monosi.dev)
@@ -204,9 +204,9 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Google Cloud Composer](https://cloud.google.com/composer)
 
   * **OSS / Open Core**
-    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,073 | 🐛 711 | 🌐 Java | 📅 2026-09-10
-    * [Luigi](https://github.com/spotify/luigi) ⭐ 18,773 | 🐛 171 | 🌐 Python | 📅 2026-07-18 by Spotify
-    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 17,858 | 🐛 852 | 🌐 Rust | 📅 2026-09-10
+    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,091 | 🐛 697 | 🌐 Java | 📅 2026-09-11
+    * [Luigi](https://github.com/spotify/luigi) ⭐ 18,772 | 🐛 173 | 🌐 Python | 📅 2026-07-18 by Spotify
+    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 17,889 | 🐛 851 | 🌐 Rust | 📅 2026-09-11
     * [Pinball](https://github.com/pinterest/pinball) ⚠️ Archived by Pinterest
     * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 659 | 🐛 83 | 🌐 Python | 📅 2026-09-10 by TransferWise
     * [Airflow](https://airflow.incubator.apache.org/) by Apache
@@ -301,7 +301,7 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Taskade](https://taskade.com/)
 
   * **OSS**
-    * [Knowledge Repo](https://github.com/airbnb/knowledge-repo) ⭐ 5,538 | 🐛 137 | 🌐 Python | 📅 2024-09-04 by Airbnb
+    * [Knowledge Repo](https://github.com/airbnb/knowledge-repo) ⭐ 5,539 | 🐛 137 | 🌐 Python | 📅 2024-09-04 by Airbnb
     * [openKB](https://github.com/mrvautin/openKB) ⚠️ Archived
 
 * ### 13. Database Modeler
@@ -350,4 +350,4 @@ ToC split by SaaS and OSS (Open Source Software):
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
