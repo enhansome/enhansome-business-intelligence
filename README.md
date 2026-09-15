@@ -103,8 +103,8 @@ ToC split by SaaS and OSS (Open Source Software):
       * [Viur](https://www.viurdata.com/)
 
   * **OSS**
-    * [Superset](https://github.com/airbnb/superset) ⭐ 74,760 | 🐛 614 | 🌐 Python | 📅 2026-09-14
-    * [Redash](https://github.com/getredash/redash) ⭐ 28,794 | 🐛 804 | 🌐 Python | 📅 2026-09-03
+    * [Superset](https://github.com/airbnb/superset) ⭐ 74,768 | 🐛 634 | 🌐 Python | 📅 2026-09-15
+    * [Redash](https://github.com/getredash/redash) ⭐ 28,796 | 🐛 804 | 🌐 Python | 📅 2026-09-03
     * [blazer](https://github.com/ankane/blazer) ⭐ 4,798 | 🐛 32 | 🌐 Ruby | 📅 2026-08-25 by Instacart
     * [Datart](https://github.com/running-elephant/datart) ⭐ 2,306 | 🐛 415 | 🌐 TypeScript | 📅 2025-02-10 (CN only language support)
     * [poli](https://github.com/shzlw/poli) ⭐ 1,973 | 🐛 43 | 🌐 Java | 📅 2023-01-06
@@ -170,9 +170,9 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Stemma](https://www.stemma.ai) by Amundsen creators
 
   * **OSS**
-    * [elementary-lineage](https://github.com/elementary-data/elementary-lineage) ⭐ 2,408 | 🐛 11 | 🌐 HTML | 📅 2026-09-14
-    * [Marquez](https://github.com/MarquezProject/marquez) ⭐ 2,276 | 🐛 251 | 🌐 Java | 📅 2026-09-07 by The We Company
-    * [Metacat](https://github.com/Netflix/metacat) ⭐ 1,692 | 🐛 58 | 🌐 Java | 📅 2026-09-14 by Netflix
+    * [elementary-lineage](https://github.com/elementary-data/elementary-lineage) ⭐ 2,409 | 🐛 13 | 🌐 HTML | 📅 2026-09-15
+    * [Marquez](https://github.com/MarquezProject/marquez) ⭐ 2,277 | 🐛 253 | 🌐 Java | 📅 2026-09-15 by The We Company
+    * [Metacat](https://github.com/Netflix/metacat) ⭐ 1,692 | 🐛 57 | 🌐 Java | 📅 2026-09-15 by Netflix
     * [Open Data Discovery](https://github.com/opendatadiscovery/odd-platform) ⭐ 1,428 | 🐛 135 | 🌐 Java | 📅 2026-09-14
     * [spline](https://github.com/AbsaOSS/spline) ⭐ 667 | 🐛 48 | 🌐 Scala | 📅 2026-09-10 by Absa
     * [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) ⚠️ Archived by Lyft
@@ -190,7 +190,7 @@ ToC split by SaaS and OSS (Open Source Software):
     * [soda](https://www.soda.io)
 
   * **OSS**
-    * [Elementary](https://github.com/elementary-data/elementary) ⭐ 2,408 | 🐛 11 | 🌐 HTML | 📅 2026-09-14
+    * [Elementary](https://github.com/elementary-data/elementary) ⭐ 2,409 | 🐛 13 | 🌐 HTML | 📅 2026-09-15
     * [DataKitchen](https://datakitchen.io/)
     * [DQO](https://dqo.ai)
     * [Monosi](https://www.monosi.dev)
@@ -204,11 +204,11 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Google Cloud Composer](https://cloud.google.com/composer)
 
   * **OSS / Open Core**
-    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,113 | 🐛 689 | 🌐 Java | 📅 2026-09-14
-    * [Luigi](https://github.com/spotify/luigi) ⭐ 18,773 | 🐛 175 | 🌐 Python | 📅 2026-07-18 by Spotify
-    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 17,925 | 🐛 845 | 🌐 Rust | 📅 2026-09-14
+    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,127 | 🐛 675 | 🌐 Java | 📅 2026-09-15
+    * [Luigi](https://github.com/spotify/luigi) ⭐ 18,774 | 🐛 176 | 🌐 Python | 📅 2026-07-18 by Spotify
+    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 17,944 | 🐛 851 | 🌐 Rust | 📅 2026-09-15
     * [Pinball](https://github.com/pinterest/pinball) ⚠️ Archived by Pinterest
-    * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 660 | 🐛 84 | 🌐 Python | 📅 2026-09-12 by TransferWise
+    * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 660 | 🐛 83 | 🌐 Python | 📅 2026-09-15 by TransferWise
     * [Airflow](https://airflow.incubator.apache.org/) by Apache
     * [Azkaban](https://azkaban.github.io/)
     * [Dagster](https://dagster.io)
@@ -301,7 +301,7 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Taskade](https://taskade.com/)
 
   * **OSS**
-    * [Knowledge Repo](https://github.com/airbnb/knowledge-repo) ⭐ 5,540 | 🐛 137 | 🌐 Python | 📅 2024-09-04 by Airbnb
+    * [Knowledge Repo](https://github.com/airbnb/knowledge-repo) ⭐ 5,539 | 🐛 137 | 🌐 Python | 📅 2024-09-04 by Airbnb
     * [openKB](https://github.com/mrvautin/openKB) ⚠️ Archived
 
 * ### 13. Database Modeler
