@@ -103,10 +103,10 @@ ToC split by SaaS and OSS (Open Source Software):
       * [Viur](https://www.viurdata.com/)
 
   * **OSS**
-    * [Superset](https://github.com/airbnb/superset) ⭐ 74,819 | 🐛 633 | 🌐 Python | 📅 2026-09-17
-    * [Redash](https://github.com/getredash/redash) ⭐ 28,800 | 🐛 804 | 🌐 Python | 📅 2026-09-03
-    * [blazer](https://github.com/ankane/blazer) ⭐ 4,800 | 🐛 32 | 🌐 Ruby | 📅 2026-09-17 by Instacart
-    * [Datart](https://github.com/running-elephant/datart) ⭐ 2,306 | 🐛 415 | 🌐 TypeScript | 📅 2025-02-10 (CN only language support)
+    * [Superset](https://github.com/airbnb/superset) ⭐ 74,834 | 🐛 625 | 🌐 Python | 📅 2026-09-18
+    * [Redash](https://github.com/getredash/redash) ⭐ 28,800 | 🐛 805 | 🌐 Python | 📅 2026-09-03
+    * [blazer](https://github.com/ankane/blazer) ⭐ 4,802 | 🐛 32 | 🌐 Ruby | 📅 2026-09-17 by Instacart
+    * [Datart](https://github.com/running-elephant/datart) ⭐ 2,307 | 🐛 415 | 🌐 TypeScript | 📅 2025-02-10 (CN only language support)
     * [poli](https://github.com/shzlw/poli) ⭐ 1,973 | 🐛 43 | 🌐 Java | 📅 2023-01-06
     * [Insights](https://github.com/mariusandra/insights) ⭐ 1,124 | 🐛 78 | 🌐 JavaScript | 📅 2025-12-09
     * [Tellery](https://github.com/tellery/tellery) ⭐ 360 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-14
@@ -151,7 +151,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   * **OSS**
     * [Mara](https://github.com/mara/data-integration) ⭐ 2,091 | 🐛 26 | 🌐 Python | 📅 2023-12-15 by Project A
-    * [embulk](https://github.com/embulk/embulk) ⭐ 1,783 | 🐛 169 | 🌐 Java | 📅 2026-06-19
+    * [embulk](https://github.com/embulk/embulk) ⭐ 1,784 | 🐛 169 | 🌐 Java | 📅 2026-06-19
     * [Beam](https://beam.apache.org/) by Apache
     * [dbt (data build tool)](https://www.getdbt.com/) by Fishtown Analytics
     * [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
@@ -173,8 +173,8 @@ ToC split by SaaS and OSS (Open Source Software):
     * [elementary-lineage](https://github.com/elementary-data/elementary-lineage) ⭐ 2,410 | 🐛 11 | 🌐 HTML | 📅 2026-09-17
     * [Marquez](https://github.com/MarquezProject/marquez) ⭐ 2,282 | 🐛 253 | 🌐 Java | 📅 2026-09-15 by The We Company
     * [Metacat](https://github.com/Netflix/metacat) ⭐ 1,692 | 🐛 57 | 🌐 Java | 📅 2026-09-15 by Netflix
-    * [Open Data Discovery](https://github.com/opendatadiscovery/odd-platform) ⭐ 1,428 | 🐛 135 | 🌐 Java | 📅 2026-09-14
-    * [spline](https://github.com/AbsaOSS/spline) ⭐ 667 | 🐛 48 | 🌐 Scala | 📅 2026-09-10 by Absa
+    * [Open Data Discovery](https://github.com/opendatadiscovery/odd-platform) ⭐ 1,428 | 🐛 136 | 🌐 Java | 📅 2026-09-14
+    * [spline](https://github.com/AbsaOSS/spline) ⭐ 667 | 🐛 47 | 🌐 Scala | 📅 2026-09-18 by Absa
     * [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) ⚠️ Archived by Lyft
     * [Datahub Project](https://datahubproject.io)
 
@@ -204,11 +204,11 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Google Cloud Composer](https://cloud.google.com/composer)
 
   * **OSS / Open Core**
-    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,147 | 🐛 666 | 🌐 Java | 📅 2026-09-17
+    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,163 | 🐛 657 | 🌐 Java | 📅 2026-09-18
     * [Luigi](https://github.com/spotify/luigi) ⭐ 18,775 | 🐛 177 | 🌐 Python | 📅 2026-07-18 by Spotify
-    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 17,958 | 🐛 872 | 🌐 Rust | 📅 2026-09-17
+    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 17,973 | 🐛 870 | 🌐 Rust | 📅 2026-09-18
     * [Pinball](https://github.com/pinterest/pinball) ⚠️ Archived by Pinterest
-    * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 660 | 🐛 82 | 🌐 Python | 📅 2026-09-17 by TransferWise
+    * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 660 | 🐛 80 | 🌐 Python | 📅 2026-09-18 by TransferWise
     * [Airflow](https://airflow.incubator.apache.org/) by Apache
     * [Azkaban](https://azkaban.github.io/)
     * [Dagster](https://dagster.io)
@@ -350,4 +350,4 @@ ToC split by SaaS and OSS (Open Source Software):
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
