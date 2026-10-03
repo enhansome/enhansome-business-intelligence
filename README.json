@@ -16,7 +16,7 @@
                 {
                   "node_type": "item",
                   "title": "Superset",
-                  "description": null,
+                  "description": "apache/superset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -25,11 +25,11 @@
                     "id": 39464018,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T23:57:38Z",
-                    "open_issues": 540,
+                    "last_commit": "2026-10-03T03:00:35Z",
+                    "open_issues": 536,
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 75014,
+                    "stars": 75015,
                     "topics": [
                       "analytics",
                       "apache",
@@ -56,7 +56,7 @@
                 {
                   "node_type": "item",
                   "title": "Redash",
-                  "description": null,
+                  "description": "getredash/redash",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -164,7 +164,7 @@
                 {
                   "node_type": "item",
                   "title": "poli",
-                  "description": null,
+                  "description": "shzlw/poli",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -196,7 +196,7 @@
                 {
                   "node_type": "item",
                   "title": "Insights",
-                  "description": null,
+                  "description": "mariusandra/insights",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -226,7 +226,7 @@
                 {
                   "node_type": "item",
                   "title": "Tellery",
-                  "description": null,
+                  "description": "tellery/tellery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -235,8 +235,8 @@
                     "id": 377693470,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-29T09:56:07Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-10-03T03:08:26Z",
+                    "open_issues": 20,
                     "owner": "tellery",
                     "repo": "tellery",
                     "stars": 360,
@@ -304,7 +304,7 @@
                 {
                   "node_type": "item",
                   "title": "embulk",
-                  "description": null,
+                  "description": "embulk/embulk",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -342,7 +342,7 @@
                 {
                   "node_type": "item",
                   "title": "elementary-lineage",
-                  "description": null,
+                  "description": "elementary-data/elementary",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -434,7 +434,7 @@
                 {
                   "node_type": "item",
                   "title": "Open Data Discovery",
-                  "description": null,
+                  "description": "opendatadiscovery/odd-platform",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -542,7 +542,7 @@
                 {
                   "node_type": "item",
                   "title": "Elementary",
-                  "description": null,
+                  "description": "elementary-data/elementary",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -595,7 +595,7 @@
                 {
                   "node_type": "item",
                   "title": "Kestra",
-                  "description": null,
+                  "description": "kestra-io/kestra",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -605,10 +605,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T16:50:49Z",
-                    "open_issues": 798,
+                    "open_issues": 799,
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 28833,
+                    "stars": 28840,
                     "topics": [
                       "ai-agents",
                       "automation",
@@ -664,7 +664,7 @@
                 {
                   "node_type": "item",
                   "title": "Windmill",
-                  "description": null,
+                  "description": "windmill-labs/windmill",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -673,7 +673,7 @@
                     "id": 488804911,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T21:12:20Z",
+                    "last_commit": "2026-10-03T01:07:12Z",
                     "open_issues": 849,
                     "owner": "windmill-labs",
                     "repo": "windmill",
@@ -749,7 +749,7 @@
                 {
                   "node_type": "item",
                   "title": "Orchest",
-                  "description": null,
+                  "description": "orchest/orchest",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -790,7 +790,7 @@
                 {
                   "node_type": "item",
                   "title": "DataCater for real-time ETL",
-                  "description": null,
+                  "description": "DataCater/datacater",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -859,7 +859,7 @@
                 {
                   "node_type": "item",
                   "title": "openKB",
-                  "description": null,
+                  "description": "mrvautin/openKB",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:45:46.233Z",
+    "last_updated": "2026-10-03T04:36:55.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "Actively curated list of awesome BI tools. PRs welcome!",

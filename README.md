@@ -103,13 +103,13 @@ ToC split by SaaS and OSS (Open Source Software):
       * [Viur](https://www.viurdata.com/)
 
   * **OSS**
-    * [Superset](https://github.com/airbnb/superset) ⭐ 75,014 | 🐛 540 | 🌐 Python | 📅 2026-10-02
+    * [Superset](https://github.com/airbnb/superset) ⭐ 75,015 | 🐛 536 | 🌐 Python | 📅 2026-10-03
     * [Redash](https://github.com/getredash/redash) ⭐ 28,830 | 🐛 812 | 🌐 Python | 📅 2026-10-02
     * [blazer](https://github.com/ankane/blazer) ⭐ 4,802 | 🐛 32 | 🌐 Ruby | 📅 2026-09-25 by Instacart
     * [Datart](https://github.com/running-elephant/datart) ⭐ 2,306 | 🐛 415 | 🌐 TypeScript | 📅 2025-02-10 (CN only language support)
     * [poli](https://github.com/shzlw/poli) ⭐ 1,973 | 🐛 43 | 🌐 Java | 📅 2023-01-06
     * [Insights](https://github.com/mariusandra/insights) ⭐ 1,124 | 🐛 78 | 🌐 JavaScript | 📅 2025-12-09
-    * [Tellery](https://github.com/tellery/tellery) ⭐ 360 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-29
+    * [Tellery](https://github.com/tellery/tellery) ⭐ 360 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-03
     * [Chartbrew](https://chartbrew.com/)
     * [evidence](https://evidence.dev)
     * [just-dashboard](https://kantord.github.io/just-dashboard/)
@@ -204,9 +204,9 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Google Cloud Composer](https://cloud.google.com/composer)
 
   * **OSS / Open Core**
-    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,833 | 🐛 798 | 🌐 Java | 📅 2026-10-02
+    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,840 | 🐛 799 | 🌐 Java | 📅 2026-10-02
     * [Luigi](https://github.com/spotify/luigi) ⭐ 18,778 | 🐛 178 | 🌐 Python | 📅 2026-07-18 by Spotify
-    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,089 | 🐛 849 | 🌐 Rust | 📅 2026-10-02
+    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,089 | 🐛 849 | 🌐 Rust | 📅 2026-10-03
     * [Pinball](https://github.com/pinterest/pinball) ⚠️ Archived by Pinterest
     * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 661 | 🐛 85 | 🌐 Python | 📅 2026-10-02 by TransferWise
     * [Airflow](https://airflow.incubator.apache.org/) by Apache
