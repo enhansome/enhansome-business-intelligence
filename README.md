@@ -103,11 +103,11 @@ ToC split by SaaS and OSS (Open Source Software):
       * [Viur](https://www.viurdata.com/)
 
   * **OSS**
-    * [Superset](https://github.com/airbnb/superset) ⭐ 75,064 | 🐛 546 | 🌐 Python | 📅 2026-10-08
-    * [Redash](https://github.com/getredash/redash) ⭐ 28,831 | 🐛 813 | 🌐 Python | 📅 2026-10-04
-    * [blazer](https://github.com/ankane/blazer) ⭐ 4,803 | 🐛 32 | 🌐 Ruby | 📅 2026-10-05 by Instacart
+    * [Superset](https://github.com/airbnb/superset) ⭐ 75,081 | 🐛 568 | 🌐 Python | 📅 2026-10-09
+    * [Redash](https://github.com/getredash/redash) ⭐ 28,832 | 🐛 813 | 🌐 Python | 📅 2026-10-08
+    * [blazer](https://github.com/ankane/blazer) ⭐ 4,803 | 🐛 33 | 🌐 Ruby | 📅 2026-10-05 by Instacart
     * [Datart](https://github.com/running-elephant/datart) ⭐ 2,305 | 🐛 415 | 🌐 TypeScript | 📅 2025-02-10 (CN only language support)
-    * [poli](https://github.com/shzlw/poli) ⭐ 1,974 | 🐛 43 | 🌐 Java | 📅 2023-01-06
+    * [poli](https://github.com/shzlw/poli) ⭐ 1,973 | 🐛 43 | 🌐 Java | 📅 2023-01-06
     * [Insights](https://github.com/mariusandra/insights) ⭐ 1,124 | 🐛 78 | 🌐 JavaScript | 📅 2025-12-09
     * [Tellery](https://github.com/tellery/tellery) ⭐ 360 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-05
     * [Chartbrew](https://chartbrew.com/)
@@ -151,7 +151,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   * **OSS**
     * [Mara](https://github.com/mara/data-integration) ⭐ 2,092 | 🐛 26 | 🌐 Python | 📅 2023-12-15 by Project A
-    * [embulk](https://github.com/embulk/embulk) ⭐ 1,784 | 🐛 166 | 🌐 Java | 📅 2026-09-25
+    * [embulk](https://github.com/embulk/embulk) ⭐ 1,784 | 🐛 167 | 🌐 Java | 📅 2026-10-08
     * [Beam](https://beam.apache.org/) by Apache
     * [dbt (data build tool)](https://www.getdbt.com/) by Fishtown Analytics
     * [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
@@ -170,11 +170,11 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Stemma](https://www.stemma.ai) by Amundsen creators
 
   * **OSS**
-    * [elementary-lineage](https://github.com/elementary-data/elementary-lineage) ⭐ 2,417 | 🐛 10 | 🌐 HTML | 📅 2026-10-07
-    * [Marquez](https://github.com/MarquezProject/marquez) ⭐ 2,285 | 🐛 252 | 🌐 Java | 📅 2026-10-07 by The We Company
+    * [elementary-lineage](https://github.com/elementary-data/elementary-lineage) ⭐ 2,419 | 🐛 13 | 🌐 HTML | 📅 2026-10-08
+    * [Marquez](https://github.com/MarquezProject/marquez) ⭐ 2,288 | 🐛 252 | 🌐 Java | 📅 2026-10-08 by The We Company
     * [Metacat](https://github.com/Netflix/metacat) ⭐ 1,691 | 🐛 58 | 🌐 Java | 📅 2026-10-08 by Netflix
     * [Open Data Discovery](https://github.com/opendatadiscovery/odd-platform) ⭐ 1,435 | 🐛 145 | 🌐 Java | 📅 2026-09-22
-    * [spline](https://github.com/AbsaOSS/spline) ⭐ 668 | 🐛 48 | 🌐 Scala | 📅 2026-10-03 by Absa
+    * [spline](https://github.com/AbsaOSS/spline) ⭐ 668 | 🐛 48 | 🌐 Scala | 📅 2026-10-08 by Absa
     * [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) ⚠️ Archived by Lyft
     * [Datahub Project](https://datahubproject.io)
 
@@ -190,7 +190,7 @@ ToC split by SaaS and OSS (Open Source Software):
     * [soda](https://www.soda.io)
 
   * **OSS**
-    * [Elementary](https://github.com/elementary-data/elementary) ⭐ 2,417 | 🐛 10 | 🌐 HTML | 📅 2026-10-07
+    * [Elementary](https://github.com/elementary-data/elementary) ⭐ 2,419 | 🐛 13 | 🌐 HTML | 📅 2026-10-08
     * [DataKitchen](https://datakitchen.io/)
     * [DQO](https://dqo.ai)
     * [Monosi](https://www.monosi.dev)
@@ -204,11 +204,11 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Google Cloud Composer](https://cloud.google.com/composer)
 
   * **OSS / Open Core**
-    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 29,372 | 🐛 847 | 🌐 Java | 📅 2026-10-07
+    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 29,428 | 🐛 845 | 🌐 Java | 📅 2026-10-08
     * [Luigi](https://github.com/spotify/luigi) ⭐ 18,783 | 🐛 182 | 🌐 Python | 📅 2026-10-07 by Spotify
-    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,128 | 🐛 854 | 🌐 Rust | 📅 2026-10-08
+    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,143 | 🐛 849 | 🌐 Rust | 📅 2026-10-09
     * [Pinball](https://github.com/pinterest/pinball) ⚠️ Archived by Pinterest
-    * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 661 | 🐛 86 | 🌐 Python | 📅 2026-10-07 by TransferWise
+    * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 661 | 🐛 87 | 🌐 Python | 📅 2026-10-08 by TransferWise
     * [Airflow](https://airflow.incubator.apache.org/) by Apache
     * [Azkaban](https://azkaban.github.io/)
     * [Dagster](https://dagster.io)
@@ -350,4 +350,4 @@ ToC split by SaaS and OSS (Open Source Software):
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
