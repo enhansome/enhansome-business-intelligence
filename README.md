@@ -103,8 +103,8 @@ ToC split by SaaS and OSS (Open Source Software):
       * [Viur](https://www.viurdata.com/)
 
   * **OSS**
-    * [Superset](https://github.com/airbnb/superset) ⭐ 75,146 | 🐛 552 | 🌐 Python | 📅 2026-10-15
-    * [Redash](https://github.com/getredash/redash) ⭐ 28,832 | 🐛 814 | 🌐 Python | 📅 2026-10-08
+    * [Superset](https://github.com/airbnb/superset) ⭐ 75,163 | 🐛 572 | 🌐 Python | 📅 2026-10-15
+    * [Redash](https://github.com/getredash/redash) ⭐ 28,833 | 🐛 815 | 🌐 Python | 📅 2026-10-08
     * [blazer](https://github.com/ankane/blazer) ⭐ 4,803 | 🐛 33 | 🌐 Ruby | 📅 2026-10-05 by Instacart
     * [Datart](https://github.com/running-elephant/datart) ⭐ 2,307 | 🐛 415 | 🌐 TypeScript | 📅 2025-02-10 (CN only language support)
     * [poli](https://github.com/shzlw/poli) ⭐ 1,975 | 🐛 43 | 🌐 Java | 📅 2023-01-06
@@ -150,7 +150,7 @@ ToC split by SaaS and OSS (Open Source Software):
     * [WhereScape](https://www.wherescape.com/)
 
   * **OSS**
-    * [Mara](https://github.com/mara/data-integration) ⭐ 2,092 | 🐛 26 | 🌐 Python | 📅 2023-12-15 by Project A
+    * [Mara](https://github.com/mara/data-integration) ⭐ 2,093 | 🐛 26 | 🌐 Python | 📅 2023-12-15 by Project A
     * [embulk](https://github.com/embulk/embulk) ⭐ 1,784 | 🐛 167 | 🌐 Java | 📅 2026-10-08
     * [Beam](https://beam.apache.org/) by Apache
     * [dbt (data build tool)](https://www.getdbt.com/) by Fishtown Analytics
@@ -204,11 +204,11 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Google Cloud Composer](https://cloud.google.com/composer)
 
   * **OSS / Open Core**
-    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 29,591 | 🐛 892 | 🌐 Java | 📅 2026-10-14
-    * [Luigi](https://github.com/spotify/luigi) ⭐ 18,783 | 🐛 183 | 🌐 Python | 📅 2026-10-14 by Spotify
-    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,186 | 🐛 854 | 🌐 Rust | 📅 2026-10-14
+    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 29,630 | 🐛 917 | 🌐 Java | 📅 2026-10-15
+    * [Luigi](https://github.com/spotify/luigi) ⭐ 18,782 | 🐛 184 | 🌐 Python | 📅 2026-10-14 by Spotify
+    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,196 | 🐛 855 | 🌐 Rust | 📅 2026-10-15
     * [Pinball](https://github.com/pinterest/pinball) ⚠️ Archived by Pinterest
-    * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 661 | 🐛 85 | 🌐 Python | 📅 2026-10-14 by TransferWise
+    * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 661 | 🐛 85 | 🌐 Python | 📅 2026-10-15 by TransferWise
     * [Airflow](https://airflow.incubator.apache.org/) by Apache
     * [Azkaban](https://azkaban.github.io/)
     * [Dagster](https://dagster.io)
