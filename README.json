@@ -25,11 +25,11 @@
                     "id": 39464018,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T23:16:19Z",
-                    "open_issues": 571,
+                    "last_commit": "2026-10-17T20:29:22Z",
+                    "open_issues": 590,
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 75170,
+                    "stars": 75194,
                     "topics": [
                       "analytics",
                       "apache",
@@ -106,7 +106,7 @@
                     "id": 24666294,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T18:30:56Z",
+                    "last_commit": "2026-10-17T19:05:35Z",
                     "open_issues": 33,
                     "owner": "ankane",
                     "repo": "blazer",
@@ -235,8 +235,8 @@
                     "id": 377693470,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T02:20:15Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-10-17T06:52:16Z",
+                    "open_issues": 18,
                     "owner": "tellery",
                     "repo": "tellery",
                     "stars": 360,
@@ -289,7 +289,7 @@
                     "open_issues": 26,
                     "owner": "mara",
                     "repo": "mara-pipelines",
-                    "stars": 2093,
+                    "stars": 2092,
                     "topics": [
                       "data",
                       "data-integration",
@@ -317,7 +317,7 @@
                     "open_issues": 167,
                     "owner": "embulk",
                     "repo": "embulk",
-                    "stars": 1784,
+                    "stars": 1785,
                     "topics": [
                       "bulk-loader",
                       "embulk"
@@ -394,7 +394,7 @@
                     "open_issues": 253,
                     "owner": "MarquezProject",
                     "repo": "marquez",
-                    "stars": 2292,
+                    "stars": 2293,
                     "topics": [
                       "data-dictionary",
                       "data-discovery",
@@ -426,7 +426,7 @@
                     "open_issues": 58,
                     "owner": "Netflix",
                     "repo": "metacat",
-                    "stars": 1691,
+                    "stars": 1692,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
@@ -447,7 +447,7 @@
                     "open_issues": 146,
                     "owner": "opendatadiscovery",
                     "repo": "odd-platform",
-                    "stars": 1436,
+                    "stars": 1437,
                     "topics": [
                       "alerting",
                       "bigdata",
@@ -605,10 +605,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-16T17:30:07Z",
-                    "open_issues": 891,
+                    "open_issues": 925,
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 29661,
+                    "stars": 29718,
                     "topics": [
                       "ai-agents",
                       "automation",
@@ -650,7 +650,7 @@
                     "open_issues": 185,
                     "owner": "spotify",
                     "repo": "luigi",
-                    "stars": 18782,
+                    "stars": 18783,
                     "topics": [
                       "hadoop",
                       "luigi",
@@ -673,11 +673,11 @@
                     "id": 488804911,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-16T21:34:43Z",
-                    "open_issues": 858,
+                    "last_commit": "2026-10-17T22:32:44Z",
+                    "open_issues": 859,
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 18206,
+                    "stars": 18216,
                     "topics": [
                       "low-code",
                       "open-source",
@@ -723,7 +723,7 @@
                     "id": 147315142,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T21:41:15Z",
+                    "last_commit": "2026-10-17T22:51:27Z",
                     "open_issues": 85,
                     "owner": "transferwise",
                     "repo": "pipelinewise",
@@ -886,7 +886,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:57:11.931Z",
+    "last_updated": "2026-10-17T23:30:24.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "Actively curated list of awesome BI tools. PRs welcome!",
