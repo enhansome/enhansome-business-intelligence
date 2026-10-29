@@ -103,13 +103,13 @@ ToC split by SaaS and OSS (Open Source Software):
       * [Viur](https://www.viurdata.com/)
 
   * **OSS**
-    * [Superset](https://github.com/airbnb/superset) ⭐ 75,333 | 🐛 608 | 🌐 Python | 📅 2026-10-28
-    * [Redash](https://github.com/getredash/redash) ⭐ 28,850 | 🐛 820 | 🌐 Python | 📅 2026-10-27
+    * [Superset](https://github.com/airbnb/superset) ⭐ 75,349 | 🐛 602 | 🌐 Python | 📅 2026-10-29
+    * [Redash](https://github.com/getredash/redash) ⭐ 28,850 | 🐛 818 | 🌐 Python | 📅 2026-10-28
     * [blazer](https://github.com/ankane/blazer) ⭐ 4,805 | 🐛 33 | 🌐 Ruby | 📅 2026-10-20 by Instacart
-    * [Datart](https://github.com/running-elephant/datart) ⭐ 2,310 | 🐛 415 | 🌐 TypeScript | 📅 2025-02-10 (CN only language support)
+    * [Datart](https://github.com/running-elephant/datart) ⭐ 2,311 | 🐛 415 | 🌐 TypeScript | 📅 2025-02-10 (CN only language support)
     * [poli](https://github.com/shzlw/poli) ⭐ 1,974 | 🐛 43 | 🌐 Java | 📅 2023-01-06
     * [Insights](https://github.com/mariusandra/insights) ⭐ 1,124 | 🐛 78 | 🌐 JavaScript | 📅 2025-12-09
-    * [Tellery](https://github.com/tellery/tellery) ⭐ 360 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-27
+    * [Tellery](https://github.com/tellery/tellery) ⭐ 360 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-28
     * [Chartbrew](https://chartbrew.com/)
     * [evidence](https://evidence.dev)
     * [just-dashboard](https://kantord.github.io/just-dashboard/)
@@ -204,11 +204,11 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Google Cloud Composer](https://cloud.google.com/composer)
 
   * **OSS / Open Core**
-    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 30,040 | 🐛 839 | 🌐 Java | 📅 2026-10-27
-    * [Luigi](https://github.com/spotify/luigi) ⭐ 18,783 | 🐛 194 | 🌐 Python | 📅 2026-10-14 by Spotify
-    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,297 | 🐛 873 | 🌐 Rust | 📅 2026-10-28
+    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 30,053 | 🐛 851 | 🌐 Java | 📅 2026-10-28
+    * [Luigi](https://github.com/spotify/luigi) ⭐ 18,781 | 🐛 194 | 🌐 Python | 📅 2026-10-14 by Spotify
+    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,308 | 🐛 869 | 🌐 Rust | 📅 2026-10-28
     * [Pinball](https://github.com/pinterest/pinball) ⚠️ Archived by Pinterest
-    * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 662 | 🐛 90 | 🌐 Python | 📅 2026-10-27 by TransferWise
+    * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 663 | 🐛 90 | 🌐 Python | 📅 2026-10-28 by TransferWise
     * [Airflow](https://airflow.incubator.apache.org/) by Apache
     * [Azkaban](https://azkaban.github.io/)
     * [Dagster](https://dagster.io)
@@ -350,4 +350,4 @@ ToC split by SaaS and OSS (Open Source Software):
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
