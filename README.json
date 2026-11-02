@@ -25,11 +25,11 @@
                     "id": 39464018,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-01T00:14:02Z",
-                    "open_issues": 598,
+                    "last_commit": "2026-11-01T09:05:45Z",
+                    "open_issues": 603,
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 75381,
+                    "stars": 75387,
                     "topics": [
                       "analytics",
                       "apache",
@@ -65,11 +65,11 @@
                     "id": 13926404,
                     "language": "TypeScript",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-10-30T03:30:06Z",
-                    "open_issues": 786,
+                    "last_commit": "2026-11-01T09:33:15Z",
+                    "open_issues": 785,
                     "owner": "getredash",
                     "repo": "redash",
-                    "stars": 28856,
+                    "stars": 28855,
                     "topics": [
                       "analytics",
                       "athena",
@@ -110,7 +110,7 @@
                     "open_issues": 33,
                     "owner": "ankane",
                     "repo": "blazer",
-                    "stars": 4806,
+                    "stars": 4807,
                     "topics": [
                       "business-intelligence",
                       "charts",
@@ -135,7 +135,7 @@
                     "open_issues": 415,
                     "owner": "running-elephant",
                     "repo": "datart",
-                    "stars": 2310,
+                    "stars": 2311,
                     "topics": [
                       "analytics",
                       "bi",
@@ -605,10 +605,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-30T23:52:02Z",
-                    "open_issues": 825,
+                    "open_issues": 828,
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 30096,
+                    "stars": 30107,
                     "topics": [
                       "ai-agents",
                       "automation",
@@ -673,11 +673,11 @@
                     "id": 488804911,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-31T20:59:35Z",
+                    "last_commit": "2026-11-01T20:59:37Z",
                     "open_issues": 870,
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 18342,
+                    "stars": 18353,
                     "topics": [
                       "ai-agents",
                       "airflow-alternative",
@@ -712,7 +712,7 @@
                     "open_issues": 13,
                     "owner": "pinterest",
                     "repo": "pinball",
-                    "stars": 1046,
+                    "stars": 1045,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
@@ -729,8 +729,8 @@
                     "id": 147315142,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-31T07:35:57Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-11-01T22:38:03Z",
+                    "open_issues": 95,
                     "owner": "transferwise",
                     "repo": "pipelinewise",
                     "stars": 663,
@@ -768,7 +768,7 @@
                     "open_issues": 130,
                     "owner": "orchest",
                     "repo": "orchest",
-                    "stars": 4134,
+                    "stars": 4133,
                     "topics": [
                       "airflow",
                       "cloud",
@@ -892,7 +892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:28:10.762Z",
+    "last_updated": "2026-11-02T01:03:26.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "Actively curated list of awesome BI tools. PRs welcome!",
@@ -904,7 +904,7 @@
       "open_issues": 32,
       "owner": "thenaturalist",
       "repo": "awesome-business-intelligence",
-      "stars": 2336,
+      "stars": 2337,
       "topics": [
         "awesome-list",
         "business-intelligence",
