@@ -103,9 +103,9 @@ ToC split by SaaS and OSS (Open Source Software):
       * [Viur](https://www.viurdata.com/)
 
   * **OSS**
-    * [Superset](https://github.com/airbnb/superset) ⭐ 75,450 | 🐛 631 | 🌐 Python | 📅 2026-11-07
-    * [Redash](https://github.com/getredash/redash) ⭐ 28,874 | 🐛 762 | 🌐 TypeScript | 📅 2026-11-07
-    * [blazer](https://github.com/ankane/blazer) ⭐ 4,807 | 🐛 32 | 🌐 Ruby | 📅 2026-10-31 by Instacart
+    * [Superset](https://github.com/airbnb/superset) ⭐ 75,452 | 🐛 636 | 🌐 Python | 📅 2026-11-08
+    * [Redash](https://github.com/getredash/redash) ⭐ 28,875 | 🐛 762 | 🌐 TypeScript | 📅 2026-11-07
+    * [blazer](https://github.com/ankane/blazer) ⭐ 4,807 | 🐛 32 | 🌐 Ruby | 📅 2026-11-08 by Instacart
     * [Datart](https://github.com/running-elephant/datart) ⭐ 2,311 | 🐛 415 | 🌐 TypeScript | 📅 2025-02-10 (CN only language support)
     * [poli](https://github.com/shzlw/poli) ⭐ 1,973 | 🐛 43 | 🌐 Java | 📅 2023-01-06
     * [Insights](https://github.com/mariusandra/insights) ⭐ 1,125 | 🐛 78 | 🌐 JavaScript | 📅 2025-12-09
@@ -173,7 +173,7 @@ ToC split by SaaS and OSS (Open Source Software):
     * [elementary-lineage](https://github.com/elementary-data/elementary-lineage) ⭐ 2,430 | 🐛 25 | 🌐 HTML | 📅 2026-11-05
     * [Marquez](https://github.com/MarquezProject/marquez) ⭐ 2,303 | 🐛 257 | 🌐 Java | 📅 2026-11-04 by The We Company
     * [Metacat](https://github.com/Netflix/metacat) ⭐ 1,690 | 🐛 60 | 🌐 Java | 📅 2026-11-05 by Netflix
-    * [Open Data Discovery](https://github.com/opendatadiscovery/odd-platform) ⭐ 1,441 | 🐛 150 | 🌐 Java | 📅 2026-10-19
+    * [Open Data Discovery](https://github.com/opendatadiscovery/odd-platform) ⭐ 1,441 | 🐛 148 | 🌐 Java | 📅 2026-10-19
     * [spline](https://github.com/AbsaOSS/spline) ⭐ 669 | 🐛 46 | 🌐 Scala | 📅 2026-11-04 by Absa
     * [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) ⚠️ Archived by Lyft
     * [Datahub Project](https://datahubproject.io)
@@ -204,9 +204,9 @@ ToC split by SaaS and OSS (Open Source Software):
     * [Google Cloud Composer](https://cloud.google.com/composer)
 
   * **OSS / Open Core**
-    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 30,168 | 🐛 727 | 🌐 Java | 📅 2026-11-07
-    * [Luigi](https://github.com/spotify/luigi) ⭐ 18,781 | 🐛 195 | 🌐 Python | 📅 2026-10-14 by Spotify
-    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,459 | 🐛 876 | 🌐 Rust | 📅 2026-11-07
+    * [Kestra](https://github.com/kestra-io/kestra) ⭐ 30,168 | 🐛 735 | 🌐 Java | 📅 2026-11-08
+    * [Luigi](https://github.com/spotify/luigi) ⭐ 18,782 | 🐛 195 | 🌐 Python | 📅 2026-10-14 by Spotify
+    * [Windmill](https://github.com/windmill-labs/windmill) ⭐ 18,472 | 🐛 877 | 🌐 Rust | 📅 2026-11-08
     * [Pinball](https://github.com/pinterest/pinball) ⚠️ Archived by Pinterest
     * [Pipelinewise](https://github.com/transferwise/pipelinewise) ⭐ 663 | 🐛 92 | 🌐 Python | 📅 2026-11-06 by TransferWise
     * [Airflow](https://airflow.incubator.apache.org/) by Apache
@@ -350,4 +350,4 @@ ToC split by SaaS and OSS (Open Source Software):
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
