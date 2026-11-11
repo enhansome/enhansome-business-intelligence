@@ -25,11 +25,11 @@
                     "id": 39464018,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T02:10:09Z",
-                    "open_issues": 662,
+                    "last_commit": "2026-11-11T01:29:21Z",
+                    "open_issues": 667,
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 75456,
+                    "stars": 75469,
                     "topics": [
                       "analytics",
                       "apache",
@@ -65,8 +65,8 @@
                     "id": 13926404,
                     "language": "TypeScript",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-11-07T02:42:18Z",
-                    "open_issues": 764,
+                    "last_commit": "2026-11-10T17:38:46Z",
+                    "open_issues": 773,
                     "owner": "getredash",
                     "repo": "redash",
                     "stars": 28877,
@@ -110,7 +110,7 @@
                     "open_issues": 32,
                     "owner": "ankane",
                     "repo": "blazer",
-                    "stars": 4807,
+                    "stars": 4806,
                     "topics": [
                       "business-intelligence",
                       "charts",
@@ -135,7 +135,7 @@
                     "open_issues": 415,
                     "owner": "running-elephant",
                     "repo": "datart",
-                    "stars": 2312,
+                    "stars": 2311,
                     "topics": [
                       "analytics",
                       "bi",
@@ -394,7 +394,7 @@
                     "open_issues": 257,
                     "owner": "MarquezProject",
                     "repo": "marquez",
-                    "stars": 2304,
+                    "stars": 2305,
                     "topics": [
                       "data-dictionary",
                       "data-discovery",
@@ -604,11 +604,11 @@
                     "id": 204164353,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-10T03:34:03Z",
-                    "open_issues": 687,
+                    "last_commit": "2026-11-10T19:49:21Z",
+                    "open_issues": 665,
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 30184,
+                    "stars": 30197,
                     "topics": [
                       "ai-agents",
                       "automation",
@@ -650,7 +650,7 @@
                     "open_issues": 195,
                     "owner": "spotify",
                     "repo": "luigi",
-                    "stars": 18783,
+                    "stars": 18784,
                     "topics": [
                       "hadoop",
                       "luigi",
@@ -673,11 +673,11 @@
                     "id": 488804911,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-09T22:46:02Z",
-                    "open_issues": 868,
+                    "last_commit": "2026-11-10T22:42:15Z",
+                    "open_issues": 867,
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 18478,
+                    "stars": 18511,
                     "topics": [
                       "ai-agents",
                       "airflow-alternative",
@@ -729,7 +729,7 @@
                     "id": 147315142,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T20:12:22Z",
+                    "last_commit": "2026-11-10T18:33:35Z",
                     "open_issues": 92,
                     "owner": "transferwise",
                     "repo": "pipelinewise",
@@ -878,7 +878,7 @@
                     "open_issues": 64,
                     "owner": "mrvautin",
                     "repo": "openKB",
-                    "stars": 665,
+                    "stars": 664,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
@@ -892,7 +892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:50:43.047Z",
+    "last_updated": "2026-11-11T01:29:32.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "Actively curated list of awesome BI tools. PRs welcome!",
