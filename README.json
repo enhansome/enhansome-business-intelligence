@@ -25,11 +25,11 @@
                     "id": 39464018,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T02:44:34Z",
-                    "open_issues": 687,
+                    "last_commit": "2026-11-20T02:01:38Z",
+                    "open_issues": 652,
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 75562,
+                    "stars": 75583,
                     "topics": [
                       "analytics",
                       "apache",
@@ -66,10 +66,10 @@
                     "language": "TypeScript",
                     "license": "BSD-2-Clause",
                     "last_commit": "2026-11-14T07:54:00Z",
-                    "open_issues": 779,
+                    "open_issues": 780,
                     "owner": "getredash",
                     "repo": "redash",
-                    "stars": 28890,
+                    "stars": 28889,
                     "topics": [
                       "analytics",
                       "athena",
@@ -110,7 +110,7 @@
                     "open_issues": 32,
                     "owner": "ankane",
                     "repo": "blazer",
-                    "stars": 4807,
+                    "stars": 4806,
                     "topics": [
                       "business-intelligence",
                       "charts",
@@ -135,7 +135,7 @@
                     "open_issues": 415,
                     "owner": "running-elephant",
                     "repo": "datart",
-                    "stars": 2310,
+                    "stars": 2309,
                     "topics": [
                       "analytics",
                       "bi",
@@ -177,7 +177,7 @@
                     "open_issues": 43,
                     "owner": "shzlw",
                     "repo": "poli",
-                    "stars": 1975,
+                    "stars": 1974,
                     "topics": [
                       "bigdata",
                       "business-intelligence",
@@ -209,7 +209,7 @@
                     "open_issues": 78,
                     "owner": "mariusandra",
                     "repo": "insights",
-                    "stars": 1126,
+                    "stars": 1125,
                     "topics": [
                       "business-intelligence",
                       "dashboard",
@@ -239,7 +239,7 @@
                     "open_issues": 16,
                     "owner": "tellery",
                     "repo": "tellery",
-                    "stars": 361,
+                    "stars": 360,
                     "topics": [
                       "analytics",
                       "bigquery",
@@ -289,7 +289,7 @@
                     "open_issues": 26,
                     "owner": "mara",
                     "repo": "mara-pipelines",
-                    "stars": 2089,
+                    "stars": 2088,
                     "topics": [
                       "data",
                       "data-integration",
@@ -317,7 +317,7 @@
                     "open_issues": 167,
                     "owner": "embulk",
                     "repo": "embulk",
-                    "stars": 1784,
+                    "stars": 1783,
                     "topics": [
                       "bulk-loader",
                       "embulk"
@@ -422,11 +422,11 @@
                     "id": 54284914,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T19:36:10Z",
-                    "open_issues": 61,
+                    "last_commit": "2026-11-19T16:05:25Z",
+                    "open_issues": 60,
                     "owner": "Netflix",
                     "repo": "metacat",
-                    "stars": 1691,
+                    "stars": 1690,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
@@ -447,7 +447,7 @@
                     "open_issues": 148,
                     "owner": "opendatadiscovery",
                     "repo": "odd-platform",
-                    "stars": 1443,
+                    "stars": 1441,
                     "topics": [
                       "alerting",
                       "bigdata",
@@ -489,7 +489,7 @@
                     "open_issues": 46,
                     "owner": "AbsaOSS",
                     "repo": "spline",
-                    "stars": 670,
+                    "stars": 669,
                     "topics": [
                       "bigdata",
                       "hadoop",
@@ -604,11 +604,11 @@
                     "id": 204164353,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T23:06:34Z",
-                    "open_issues": 645,
+                    "last_commit": "2026-11-19T19:59:56Z",
+                    "open_issues": 639,
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 30280,
+                    "stars": 30289,
                     "topics": [
                       "ai-agents",
                       "automation",
@@ -646,11 +646,11 @@
                     "id": 5888353,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T14:29:59Z",
+                    "last_commit": "2026-11-20T02:10:00Z",
                     "open_issues": 195,
                     "owner": "spotify",
                     "repo": "luigi",
-                    "stars": 18790,
+                    "stars": 18792,
                     "topics": [
                       "hadoop",
                       "luigi",
@@ -673,11 +673,11 @@
                     "id": 488804911,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T23:11:53Z",
-                    "open_issues": 867,
+                    "last_commit": "2026-11-19T22:07:59Z",
+                    "open_issues": 854,
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 18639,
+                    "stars": 18648,
                     "topics": [
                       "ai-agents",
                       "airflow-alternative",
@@ -729,11 +729,11 @@
                     "id": 147315142,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T13:34:51Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-11-19T15:19:14Z",
+                    "open_issues": 91,
                     "owner": "transferwise",
                     "repo": "pipelinewise",
-                    "stars": 664,
+                    "stars": 663,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
@@ -768,7 +768,7 @@
                     "open_issues": 130,
                     "owner": "orchest",
                     "repo": "orchest",
-                    "stars": 4131,
+                    "stars": 4128,
                     "topics": [
                       "airflow",
                       "cloud",
@@ -852,7 +852,7 @@
                     "open_issues": 137,
                     "owner": "airbnb",
                     "repo": "knowledge-repo",
-                    "stars": 5538,
+                    "stars": 5537,
                     "topics": [
                       "data",
                       "data-analysis",
@@ -878,7 +878,7 @@
                     "open_issues": 64,
                     "owner": "mrvautin",
                     "repo": "openKB",
-                    "stars": 665,
+                    "stars": 664,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:50:11.965Z"
@@ -892,7 +892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:51:00.474Z",
+    "last_updated": "2026-11-20T02:40:02.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "Actively curated list of awesome BI tools. PRs welcome!",
@@ -904,7 +904,7 @@
       "open_issues": 34,
       "owner": "thenaturalist",
       "repo": "awesome-business-intelligence",
-      "stars": 2339,
+      "stars": 2338,
       "topics": [
         "awesome-list",
         "business-intelligence",
