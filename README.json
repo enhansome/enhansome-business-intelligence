@@ -25,11 +25,11 @@
                     "id": 39464018,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T01:27:22Z",
-                    "open_issues": 619,
+                    "last_commit": "2026-11-22T00:56:06Z",
+                    "open_issues": 586,
                     "owner": "apache",
                     "repo": "superset",
-                    "stars": 75598,
+                    "stars": 75614,
                     "topics": [
                       "analytics",
                       "apache",
@@ -69,7 +69,7 @@
                     "open_issues": 780,
                     "owner": "getredash",
                     "repo": "redash",
-                    "stars": 28895,
+                    "stars": 28897,
                     "topics": [
                       "analytics",
                       "athena",
@@ -177,7 +177,7 @@
                     "open_issues": 43,
                     "owner": "shzlw",
                     "repo": "poli",
-                    "stars": 1974,
+                    "stars": 1973,
                     "topics": [
                       "bigdata",
                       "business-intelligence",
@@ -605,10 +605,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-20T18:12:34Z",
-                    "open_issues": 621,
+                    "open_issues": 623,
                     "owner": "kestra-io",
                     "repo": "kestra",
-                    "stars": 30299,
+                    "stars": 30306,
                     "topics": [
                       "ai-agents",
                       "automation",
@@ -650,7 +650,7 @@
                     "open_issues": 195,
                     "owner": "spotify",
                     "repo": "luigi",
-                    "stars": 18792,
+                    "stars": 18793,
                     "topics": [
                       "hadoop",
                       "luigi",
@@ -673,11 +673,11 @@
                     "id": 488804911,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-20T19:50:29Z",
+                    "last_commit": "2026-11-21T08:14:31Z",
                     "open_issues": 846,
                     "owner": "windmill-labs",
                     "repo": "windmill",
-                    "stars": 18661,
+                    "stars": 18672,
                     "topics": [
                       "ai-agents",
                       "airflow-alternative",
@@ -892,7 +892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:51:45.873Z",
+    "last_updated": "2026-11-22T01:41:12.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "Actively curated list of awesome BI tools. PRs welcome!",
@@ -904,7 +904,7 @@
       "open_issues": 34,
       "owner": "thenaturalist",
       "repo": "awesome-business-intelligence",
-      "stars": 2338,
+      "stars": 2339,
       "topics": [
         "awesome-list",
         "business-intelligence",
